@@ -1,0 +1,199 @@
+unreferenced object 0xffff888002b37cf8 (size 32):
+comm "insmod", pid 131, jiffies 4294914022 (age 474.204s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b a5  kkkkkkkkkkkkkkk.
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc0007038
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffff888002b37738 (size 32):
+comm "insmod", pid 131, jiffies 4294914023 (age 474.200s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b a5  kkkkkkkkkkkkkkk.
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc000705d
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffff888002acb528 (size 1024):
+comm "insmod", pid 131, jiffies 4294914023 (age 474.200s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc0007082
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffff888002ac9fe8 (size 1024):
+comm "insmod", pid 131, jiffies 4294914023 (age 474.200s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc00070a7
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffff8880035f9bf8 (size 2048):
+comm "insmod", pid 131, jiffies 4294914025 (age 474.252s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc00070f1
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffff888002a41158 (size 4096):
+comm "insmod", pid 131, jiffies 4294914025 (age 474.272s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc0007116
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffff888002a433f8 (size 4096):
+comm "insmod", pid 131, jiffies 4294914025 (age 474.272s)
+hex dump (first 32 bytes):
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b 6b  kkkkkkkkkkkkkkkk
+backtrace:
+[<(ptrval)>] kmem_cache_alloc_trace+0x144/0x210
+[<(ptrval)>] 0xffffffffc000713b
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffffc9000006d000 (size 4096):
+comm "insmod", pid 131, jiffies 4294914026 (age 474.268s)
+hex dump (first 32 bytes):
+f3 85 00 00 00 00 00 00 e1 fb 00 00 00 00 00 00  ................
+0a 00 00 00 14 00 00 00 71 9b 00 00 00 00 00 00  ........q.......
+backtrace:
+[<(ptrval)>] __vmalloc_node_range+0x191/0x270
+[<(ptrval)>] vmalloc+0x4c/0x50
+[<(ptrval)>] 0xffffffffc0007154
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffffc90000075000 (size 4096):
+comm "insmod", pid 131, jiffies 4294914026 (age 474.268s)
+hex dump (first 32 bytes):
+d2 ee 00 00 00 00 00 00 0a 00 00 00 14 00 00 00  ................
+35 9a 00 00 00 00 00 00 df ee 00 00 00 00 00 00  5...............
+backtrace:
+[<(ptrval)>] __vmalloc_node_range+0x191/0x270
+[<(ptrval)>] vmalloc+0x4c/0x50
+[<(ptrval)>] 0xffffffffc000716d
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffffc9000007d000 (size 4096):
+comm "insmod", pid 131, jiffies 4294914026 (age 474.332s)
+hex dump (first 32 bytes):
+0a 00 00 00 14 00 00 00 ea 85 00 00 00 00 00 00  ................
+d8 e3 00 00 00 00 00 00 0a 00 00 00 14 00 00 00  ................
+backtrace:
+[<(ptrval)>] __vmalloc_node_range+0x191/0x270
+[<(ptrval)>] vmalloc+0x4c/0x50
+[<(ptrval)>] 0xffffffffc0007186
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffffc90000085000 (size 4096):
+comm "insmod", pid 131, jiffies 4294914026 (age 474.352s)
+hex dump (first 32 bytes):
+e1 6a 00 00 00 00 00 00 f0 da 00 00 00 00 00 00  .j..............
+0a 00 00 00 14 00 00 00 2d 73 00 00 00 00 00 00  ........-s......
+backtrace:
+[<(ptrval)>] __vmalloc_node_range+0x191/0x270
+[<(ptrval)>] vmalloc+0x4c/0x50
+[<(ptrval)>] 0xffffffffc000719f
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+unreferenced object 0xffffc9000008d000 (size 4096):
+comm "insmod", pid 131, jiffies 4294914027 (age 474.348s)
+hex dump (first 32 bytes):
+ea d1 00 00 00 00 00 00 0a 00 00 00 14 00 00 00  ................
+82 86 00 00 00 00 00 00 f6 d1 00 00 00 00 00 00  ................
+backtrace:
+[<(ptrval)>] __vmalloc_node_range+0x191/0x270
+[<(ptrval)>] vmalloc+0x4c/0x50
+[<(ptrval)>] 0xffffffffc00071b8
+[<(ptrval)>] do_one_initcall+0x52/0x1d7
+[<(ptrval)>] do_init_module+0x5f/0x221
+[<(ptrval)>] load_module+0x2614/0x2b90
+[<(ptrval)>] __do_sys_init_module+0x186/0x1a0
+[<(ptrval)>] __x64_sys_init_module+0x1a/0x20
+[<(ptrval)>] do_syscall_64+0x5a/0x110
+[<(ptrval)>] entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[<(ptrval)>] 0xffffffffffffffff
+
+
